@@ -11,10 +11,12 @@
      
     }
     main{
+        width: 90vw;
         border: 2px solid black;
     }
-    main ::after{
+    main::after{
         content:'Essa impressão foi feita atravez do site www.audademediaquery.com.br' ;
+        text-decoration: overline;
     }
 
     main h1 {
