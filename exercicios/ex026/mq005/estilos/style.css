@@ -9,7 +9,7 @@ body, html{
 }
 
 header{
-    background-image: linear-gradient(to bottom,#014040,#02735E);
+    background-image: linear-gradient(to bottom,#014040,#03A678);
     
     text-align: center;
     
@@ -29,7 +29,7 @@ span#burguer{
     cursor: pointer;
 }
 span#burguer:hover{
-    background-color:#02735e30;
+    background-color:#02735e0;
     color: black;
 }
 
